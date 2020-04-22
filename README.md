@@ -23,8 +23,8 @@ To-do:
 * 
 
 ## Status
-Zadanie 1 -skończone zwykła funkcja
-Zadanie 2 - skończone metoda siecznych
+*Zadanie 1 -{END} funkcja jednej zmiennej
+*Zadanie 2 - {END} metoda siecznych
 
 ## Inspiracja
 Nie mam żadnej motyweacji do tego języka, ale zrobię bo muszę go zrobić
