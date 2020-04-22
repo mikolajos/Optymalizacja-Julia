@@ -1,18 +1,17 @@
-# Nazwa
->Optymalizacja
+# Zadania z Optymalizacji Julii
 
 ## Informacje
-Tu będzie robiona optymalizacja z Julii
+Na tym repozytorium będą wystawione wszystkie funkcje napisane w języku Julia
 
 ## Screenshots
 ![przykladowy obrazek](./img/screenshot.png)
 
 ## Użyte Technologie
-* Julia
+* Julia 1.4.1
 
 
 ## Instrukcja
-Jak to zrobić
+Eeee Klikasz w nazwe zadania i masz tam dany kod
 
 ## Przykładowy Kod
 Przykładowy kod:
@@ -24,8 +23,10 @@ To-do:
 * 
 
 ## Status
-Działania są w Trakcie
+Zadanie 1 -skończone zwykła funkcja
+Zadanie 2 - skończone metoda siecznych
 
 ## Inspiracja
-
+Nie mam żadnej motyweacji do tego języka, ale zrobię bo muszę go zrobić
 ## Kontakt
+
